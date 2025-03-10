@@ -13,5 +13,7 @@ clone the project  and run the ' make all ' to build the project , ' make flash 
 App to control the PWM duty cycle is available on this repo [ https://github.com/vashukashyap/PWMLedApp ]
 
 ## Project preview
+![VideoCapture_20250311-021306](https://github.com/user-attachments/assets/22523ce4-8d28-40b7-88f9-4f41d3217114)
+
 https://github.com/user-attachments/assets/bce1e82b-38a7-485f-88e9-71d7a396f872
 
