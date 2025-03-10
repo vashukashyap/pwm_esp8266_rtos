@@ -1,3 +1,7 @@
+
+
+
+
 # PWM with esp8266 using FREERTOS
 A simple firmware written with freertos to control the power supply to led through PWM ( pulse width modulation ) which help in decreasing and increasing the intensity of the led.
 
@@ -9,5 +13,5 @@ clone the project  and run the ' make all ' to build the project , ' make flash 
 App to control the PWM duty cycle is available on this repo [ https://github.com/vashukashyap/PWMLedApp ]
 
 ## Project preview
-
+https://github.com/user-attachments/assets/bce1e82b-38a7-485f-88e9-71d7a396f872
 
